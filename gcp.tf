@@ -6,4 +6,5 @@ provider "google" {
   region  = "${var.region}"
   credentials = "${file("terraform-gke-flugel-5f9ca5d5b665.json")}"
 
+
 }
