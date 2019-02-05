@@ -1,6 +1,8 @@
 # Terraform-GKE
 Preparation
 
+
+
     Google Cloud account - terraform service account to be created and download json file
     Terraform installed
     Google Cloud SDK
